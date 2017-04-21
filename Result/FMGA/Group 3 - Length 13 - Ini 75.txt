@@ -1,0 +1,8 @@
+TAAAAAAAAAAAA         46.3462             18 / 49                36.7347
+TTTTTCTGTTTCT         44.5385              7 / 49                14.2857
+ATCAAAAAAAAAA         45.5385              2 / 49                4.08163
+AAAAAATAATAAA         44.4615              1 / 49                2.04082
+ATCGAAAAAAAAA         44.1923              1 / 49                2.04082
+CACACAAAAAAAA         44.1538              1 / 49                2.04082
+GTTCTGTAATAAA         42.5385              1 / 49                2.04082
+TTCTCTGGATTTA         42.3077              1 / 49                2.04082

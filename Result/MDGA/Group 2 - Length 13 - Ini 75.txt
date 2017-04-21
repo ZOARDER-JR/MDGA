@@ -1,0 +1,18 @@
+              Pattern            TFS           Complete Match          Percentage
+
+        GAGAATTTTTTTC         15.0308              3 / 17                17.6471
+        GAGGGAGCCCCCT         14.7308              3 / 17                17.6471
+        ATCATTTTTACCA         14.4769              3 / 17                17.6471
+        TTCTTTTTTTTGT         15.0308              2 / 17                11.7647
+        TGAGGAAGGCAGC         14.6538              2 / 17                11.7647
+        CGCCTCAGCAGCC         14.6077              2 / 17                11.7647
+        GGGATTTTTTTTT         14.5846              2 / 17                11.7647
+        CTATGAAGTCTCT         14.5769              2 / 17                11.7647
+        TCTTTTTCCTATC         14.5615              2 / 17                11.7647
+        ACAACTTTTTTTT            14.5              2 / 17                11.7647
+        CAGCAGAAGGTTC         14.4923              2 / 17                11.7647
+        AAAAACACAGTTG         14.3462              2 / 17                11.7647
+        ATCAAGGGGGCAG         14.3462              2 / 17                11.7647
+        AAGAGGGTGGAAG         14.8462              1 / 17                5.88235
+        GCCAGCACACACA         14.4846              1 / 17                5.88235
+        CCCCTAAACATGG         14.0615              1 / 17                5.88235

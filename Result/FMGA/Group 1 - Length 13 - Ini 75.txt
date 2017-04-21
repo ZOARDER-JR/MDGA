@@ -1,0 +1,4 @@
+ATGTAACTCATGA         12.4231              3 / 14                21.4286
+CTGCCTGAGCAAC         12.3846              3 / 14                21.4286
+AAATCCAGCATGG         12.3462              3 / 14                21.4286
+ATTTAATATCCAC         12.3462              3 / 14                21.4286
